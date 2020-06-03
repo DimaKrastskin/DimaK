@@ -1,0 +1,7 @@
+body{
+background-size: cover;
+  background-repeat: no-repeat;
+background-clip: content-box;
+  background-image: url(https://bgfons.com/upload/grass_texture594.jpg);
+background-attachment: fixed;
+}

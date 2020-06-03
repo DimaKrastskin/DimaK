@@ -1,0 +1,10 @@
+nav:before {
+    content:'';
+    display: block;
+    height:200px;
+    width:center;
+    background:linear-gradient(to left,#DAE2F8,#D6A4A4);
+    position:center;
+    left:0;
+    z-index:-1;
+}
